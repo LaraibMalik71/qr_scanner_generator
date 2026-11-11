@@ -39,7 +39,7 @@ Generate QR codes for multiple information types, including Text, Website, Phone
 <br/><b>Website Details</b>
 </td>
 <td align="center">
-<img src="screenshots/website_qr.png" width="210" alt="Website QR Code"/>
+<img src="screenshots/website_qr_code.png" width="210" alt="Website QR Code"/>
 <br/><b>Generated Website QR</b>
 </td>
 </tr>
@@ -49,7 +49,7 @@ Generate QR codes for multiple information types, including Text, Website, Phone
 <br/><b>Location Details</b>
 </td>
 <td align="center">
-<img src="screenshots/location_qr.png" width="210" alt="Location QR Code"/>
+<img src="screenshots/location_qr_code.png" width="210" alt="Location QR Code"/>
 <br/><b>Generated Location QR</b>
 </td>
 </tr>
